@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/facebook-light.svg)](https://www.facebook.com/souravpdd#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/souravpdd#gh-dark-mode-only)
+[![website](./img/dark-facebook.svg)](https://www.facebook.com/souravpdd#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/souravpd_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/souravpd_#gh-dark-mode-only)
