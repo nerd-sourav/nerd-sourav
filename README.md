@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to work with other developers to learn more.
 - 🥅 2022 Goals: Learn Flutter Development.
-- ⚡ Fun fact: I love to play basketball.
+- ⚡ Fun fact: I love playing basketball.
 
 ### Connect with me:
 
