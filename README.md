@@ -1,5 +1,16 @@
-# Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+# Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<p align="left">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" height="200" width="200"/>
+
+</p>
 ## I'm a Student, Developer, and Nerd!!
 
 - 🌱 I’m currently learning Android Development.
@@ -40,3 +51,9 @@
 [twitter]: https://twitter.com/souravpd_
 [instagram]: https://instagram.com/soura.xdW
 [linkedin]: https://www.linkedin.com/in/sourav-pd
+<br>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
