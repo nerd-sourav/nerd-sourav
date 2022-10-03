@@ -1,4 +1,4 @@
-# Hi there, I'm Sourav 👋
+# Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## I'm a Student, Developer, and Nerd!!
 
